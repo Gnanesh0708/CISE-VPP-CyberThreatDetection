@@ -53,13 +53,13 @@ Various intrusion detection models, including Isolation Forest, One-Class SVM, A
 ![Data Processing Workflow](https://github.com/Gnanesh0708/CISE-VPP-CyberThreatDetection/blob/main/Images/Data%20Processing%20Workflow.png)
 
 ### Data Pipeline
-![Data Pipeline](file-iDxrWZ3rFf0mPGJJKiQinTFw)
+![Data Pipeline](https://github.com/Gnanesh0708/CISE-VPP-CyberThreatDetection/blob/main/Images/Data%20Pipeline.png)
 
 ### Docker Running with Two Containers
-![Docker Running with Two Containers](file-ogdd3dmSShzR7wYUX3qfHkhC)
+![Docker Running with Two Containers](https://github.com/Gnanesh0708/CISE-VPP-CyberThreatDetection/blob/main/Images/Docker%20Running%20With%20Two%20Containers.png)
 
 ### Data Loaded into Postgres
-![Data Loaded into Postgres](file-h1eYAmSlnv9Z16lmIT19tB6U)
+![Data Loaded into Postgres](https://github.com/Gnanesh0708/CISE-VPP-CyberThreatDetection/blob/main/Images/Data%20Loaded%20into%20Postgres.png)
 
 ---
 
