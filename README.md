@@ -73,6 +73,3 @@ Various intrusion detection models, including Isolation Forest, One-Class SVM, A
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
