@@ -50,7 +50,7 @@ Various intrusion detection models, including Isolation Forest, One-Class SVM, A
 ## Images
 
 ### Data Processing Workflow
-![Data Processing Workflow](https://github.com/Gnanesh0708/CISE-VPP-CyberThreatDetection/blob/main/Images/Data%20Processing%20Workflow.png)
+![Data Processing Workflow](https://github.com/Gnanesh0708/CISE-VPP-CyberThreatDetection/blob/main/Images/Data%20Workflow.png)
 
 ### Data Pipeline
 ![Data Pipeline](https://github.com/Gnanesh0708/CISE-VPP-CyberThreatDetection/blob/main/Images/Data%20Pipeline.png)
